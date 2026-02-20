@@ -1,4 +1,4 @@
-# HTML Authentication POC
+# HTML Authentication 
 
 This project contains 5 basic HTML authentication pages:
 
