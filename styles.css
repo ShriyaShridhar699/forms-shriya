@@ -1,0 +1,57 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+body{
+font-family:'Poppins',sans-serif;
+background: linear-gradient(135deg,#5f9cff,#7a5cff);
+min-height:100vh;
+}
+
+
+.auth-card{
+border:none;
+border-radius:15px;
+box-shadow:0 10px 30px rgba(0,0,0,0.2);
+}
+
+
+.btn-custom{
+background:#4c6ef5;
+color:white;
+transition:all 0.3s ease;
+}
+
+.btn-custom:hover{
+background:#364fc7;
+transform:translateY(-2px);
+}
+
+/* Link Styling */
+.auth-link{
+text-decoration:none;
+font-size:14px;
+}
+
+.auth-link:hover{
+text-decoration:underline;
+}
+
+/* Navbar */
+.navbar-brand{
+font-weight:600;
+}
+
+/* Dashboard */
+.dashboard-box{
+padding:40px;
+background:white;
+border-radius:15px;
+box-shadow:0 5px 20px rgba(0,0,0,0.15);
+}
+
+
+@media(max-width:768px){
+.auth-card{
+margin:20px;
+}
+}
