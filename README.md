@@ -15,4 +15,4 @@ This project contains 5 basic HTML authentication pages:
 
 All pages are connected using anchor tag redirections and HTML form validation.
 
-No CSS or JavaScript is used in this project.
+ - Now added css file and Boot strap 
