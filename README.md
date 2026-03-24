@@ -39,4 +39,4 @@ Login Page
 
 screenshots are included
 Login Page
- ![dashboard page](C:/Users/user/OneDrive/Pictures/Screenshots)
+ ![dashboard page](Screenshot 2026-03-24 104846.png)
