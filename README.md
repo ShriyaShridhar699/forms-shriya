@@ -38,6 +38,24 @@ Login Page
 → Logout → Back to Login
 
 screenshots are included
+
 Login Page
  ![login page](screenshots/login.png)
+ 
+Register page
+ ![Register page](screenshots/register.png)
+ 
+ Forgot password
+ ![Forgot page](screenshots/forgot.png)
+ 
+ Reset Password 
+ ![reset page](screenshots/reset.png)
+
+ Dashboard 
+ ![dashboard page](screenshots/dashboard.png)
+ 
+ 
+ 
+ 
+ 
  
