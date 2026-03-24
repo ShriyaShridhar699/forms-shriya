@@ -2,17 +2,41 @@
 
 This project contains 5 basic HTML authentication pages:
 
-- login.html: It contains username ,password and forgot       password. It will redirect to the forgot password page
+This project is a styled authentication system developed as part of the Fullstack Java Development Assignment.
+The application includes multiple authentication-related pages designed using HTML, Bootstrap 5, and custom CSS.
 
-- register-form.html-it :It contains name ,ph no,email,password and  confirm password. 
- Also if registered it will redirect to login page
+The goal of this project is to transform basic HTML pages into a professional, responsive, and visually appealing UI.
 
-- forgot password.html: We have to press reset link after we get reset link it goes to reset password page .
+Features 
+-Fully responsive design (Mobile, Tablet, Desktop)
+-Bootstrap 5 integration
+-Modern UI using Bootstrap components
+-Custom CSS styling (colors, fonts, shadows, hover effects)
+-Smooth navigation between all pages
+-Clean and structured layout
 
-- reset password.html: new password must be entered and cofirm it the new password and click on update password
+Pages Included
+-Login Page
+-Registration Page
+-Forgot Password Page
+-Reset Password Page
+-Dashboard Page
 
-- dashboard.html : There is logout which will redirect to login page 
+UI & Styling
+Custom gradient background
+Google Fonts (Poppins)
+Card-based layout using Bootstrap
+Button hover effects and transitions
+Box shadows for better UI depth
 
-All pages are connected using anchor tag redirections and HTML form validation.
+Navigation Flow
+Login Page
+→ Create Account → Registration Page
+→ Forgot Password → Forgot Password Page
+→ Reset Password → Reset Password Page
+→ Login → Dashboard
+→ Logout → Back to Login
 
- - Now added css file and Boot strap 
+screenshots are included
+Login Page
+[dashboard page](C:/Users/user/OneDrive/Pictures/Screenshots)
